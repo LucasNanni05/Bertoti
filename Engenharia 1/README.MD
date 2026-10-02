@@ -29,14 +29,32 @@ Outro exemplo seria o escalonamento. No sistema de uma academia de bairro, que f
 <h1 align='center'>Atividade 4 - Minha Contribuição para a API</h1>
 
 <h2 >No desenvolvimento da API, fui responsável por: </h2>
-<ul>
-    <h3> 
-        <li>Manutenção das tasks no Jira</li>
-        <li>Serializar os dados da planilha para manipula-los</li>
-        <li>Criar a funcionalidade de Cálculo do Cumprimento de Metas</li>
-        <li>Revisão de Código</li> 
-    </h3>
-<ul>
+<table>
+  <thead>
+    <tr>
+      <th>Resposabilidade</th>
+      <th>Explicação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manutenção das tasks no Jira</td>
+      <td>Fui responsável por Criar, Atualizar e realizar a Manutenção das Tasks no Jira Software e atribuir elas aos integrantes do projeto</td>
+    </tr>
+    <tr>
+      <td>Serializar os dados da planilha para manipula-los</td>
+      <td>Criar a função no código para tratar os dados inseridos na planilha, para facilitar a manipulação dos mesmos em outras funções do código</td>
+    </tr>
+    <tr>
+      <td>Criar a funcionalidade de Cálculo do Cumprimento de Metas</td>
+      <td>Criar a função do código que recebe os dados tratados e retorna quais atendentes bateram a meta de vendas de contratos</td>
+    </tr>
+    <tr>
+      <td>Revisão de Código</td>
+      <td>Revisar o código de meus colegas para saber se estavam integráveis, seguindo as padronizações definidas, se estavam funcionando corretamente, etc</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
